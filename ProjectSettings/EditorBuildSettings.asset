@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 228a29bce5968b24e872e5c72ae5212e
+  - enabled: 1
+    path: Assets/azazy/Scenes/cutscene.unity
+    guid: fd5e17e04564c824fbf411abf81a37c4
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (2).unity
+    guid: 59c166aa87aa31e449c691792cb666db
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (3).unity
+    guid: 48d8f7195dcffe046a3992b4dc55068f
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (4).unity
+    guid: 957755b9ce743cb46b27879a2c6e1db1
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (5).unity
+    guid: d88f89aa16277204eb960017aac44ae9
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (6).unity
+    guid: 260066e0bbc528442bce0b85bb00158e
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (7).unity
+    guid: 3851ba365eb521347aa48501dff0ca2a
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (8).unity
+    guid: 764d799b3dc0f144e9a7f88c86fe01f1
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (10).unity
+    guid: 9338fc144f727e04986eccbfea350572
+  - enabled: 1
+    path: Assets/azazy/Scenes/Level (11).unity
+    guid: 193e770b54b6a5a4cb374b5bcc06b8d4
+  - enabled: 1
+    path: Assets/azazy/Scenes/level (13).unity
+    guid: 12d28f1dad99e454a9cf7958e624e1a7
+  - enabled: 1
+    path: Assets/azazy/Scenes/water trap.unity
+    guid: 22295b600c5b35b40975f3b9c37bc5ef
+  - enabled: 1
+    path: Assets/azazy/Scenes/weights trap.unity
+    guid: 356e5c94c332a464ca6994877a1a8bac
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/azazy/Scenes/game end.unity
+    guid: 086a4930517e27444b40e2b8f695305f
+  m_configObjects: {}
